@@ -60,8 +60,8 @@ Path planning in 3D printing refers to the process of determining the optimal to
 
 ## Output:
 
-### Name:v.baskaran
-### Register Number:21222230020
+### Name:S.VIKASH
+### Register Number:21222240115
 
 ## Result: 
 ### Thus the simulation on the Preprocessing in additive manufacturing is completed.
